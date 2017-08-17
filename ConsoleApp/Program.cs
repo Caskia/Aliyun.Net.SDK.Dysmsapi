@@ -12,8 +12,8 @@ namespace ConsoleApp
         {
             String product = "Dysmsapi";//短信API产品名称
             String domain = "dysmsapi.aliyuncs.com";//短信API产品域名
-            String accessKeyId = "LTAImVYKX1Ts0Ka6";//你的accessKeyId
-            String accessKeySecret = "3c96EMcZkZpgaRlN5MfJ8qmjxdwVvw";//你的accessKeySecret
+            String accessKeyId = "xxxx";//你的accessKeyId
+            String accessKeySecret = "xxxxx";//你的accessKeySecret
 
             IClientProfile profile = DefaultProfile.GetProfile("cn-hangzhou", accessKeyId, accessKeySecret);
             //IAcsClient client = new DefaultAcsClient(profile);
@@ -25,7 +25,7 @@ namespace ConsoleApp
             try
             {
                 //必填:待发送手机号。支持以逗号分隔的形式进行批量调用，批量上限为20个手机号码,批量调用相对于单条调用及时性稍有延迟,验证码类型的短信推荐使用单条调用的方式
-                request.PhoneNumbers = "13882291097";  //测试手机 landp
+                request.PhoneNumbers = "xxxxxx";  //测试手机 landp
                 //必填:短信签名-可在短信控制台中找到
                 request.SignName = "思柯瑞";  // 思柯瑞
                 //必填:短信模板-可在短信控制台中找到
