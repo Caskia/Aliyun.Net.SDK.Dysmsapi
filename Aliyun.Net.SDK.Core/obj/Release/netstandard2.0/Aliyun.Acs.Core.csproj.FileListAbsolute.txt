@@ -1,0 +1,17 @@
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.deps.json
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.dll
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.pdb
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.csproj.CoreCompileInputs.cache
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.AssemblyInfoInputs.cache
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.AssemblyInfo.cs
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.dll
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.pdb
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Net.SDK.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.csprojResolveAssemblyReference.cache
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.deps.json
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.dll
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\bin\Release\netstandard2.0\Aliyun.Acs.Core.pdb
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.csproj.CoreCompileInputs.cache
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.AssemblyInfoInputs.cache
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.AssemblyInfo.cs
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.dll
+C:\Users\Caskia\Desktop\dysmsapi_demo_sdk__net\dysmsapi_demo_sdk__net\net\api_sdk\Aliyun.Acs.Core\obj\Release\netstandard2.0\Aliyun.Acs.Core.pdb
