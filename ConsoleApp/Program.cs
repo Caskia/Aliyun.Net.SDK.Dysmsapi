@@ -29,7 +29,7 @@ namespace ConsoleApp
                 //必填:短信签名-可在短信控制台中找到
                 request.SignName = "思柯瑞";  // 思柯瑞
                 //必填:短信模板-可在短信控制台中找到
-                request.TemplateCode = "SMS_85880010";   // 锦江水质监测平台 - 用户注册验证码
+                request.TemplateCode = "SMS_85880010";   // 用户注册验证码
                                                          //可选:模板中的变量替换JSON串,如模板内容为模版内容:    验证码${code}，您正在注册成为新用户，感谢您的支持！
 
                 request.TemplateParam = "{\"code\":\"8888\"}";
