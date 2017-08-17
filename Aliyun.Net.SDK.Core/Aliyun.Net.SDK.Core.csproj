@@ -3,7 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.3</Version>
+    <Description>aliyun net core sdk</Description>
+    <PackageTags>net core, netstandard 2.0</PackageTags>
+    <PackageProjectUrl>https://github.com/Caskia/Aliyun.Net.SDK.Dysmsapi</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Caskia/Aliyun.Net.SDK.Dysmsapi.git</RepositoryUrl>
+    <Authors>Caskia</Authors>
   </PropertyGroup>
 
   <ItemGroup>

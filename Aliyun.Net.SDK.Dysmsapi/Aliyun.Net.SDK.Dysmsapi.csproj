@@ -4,7 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>aliyun sms sdk</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.3</Version>
+    <PackageTags>net core, netstandard 2.0</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/Caskia/Aliyun.Net.SDK.Dysmsapi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Caskia/Aliyun.Net.SDK.Dysmsapi.git</RepositoryUrl>
+    <Authors>Caskia</Authors>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <FileVersion>1.0.3.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,6 +6,5 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aliyun.Net.SDK.Dysmsapi" Version="1.0.1" />
   </ItemGroup>
 </Project>
